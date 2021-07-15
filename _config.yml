@@ -12,5 +12,4 @@ show_header: "true"
 
 source: "site"
 icon: "assets/images/fav.ico"
-
-remote_theme: "dracula/gh-pages"
+remote_theme: "assets/theme/dracula"
