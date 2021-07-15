@@ -1,0 +1,6 @@
+[submodule "site/_modules/dracula"]
+	path = site/_modules/dracula
+	url = https://github.com/dracula/gh-pages.git
+[submodule "assets/theme/dracula"]
+	path = assets/theme/dracula
+	url = https://github.com/dracula/gh-pages.git

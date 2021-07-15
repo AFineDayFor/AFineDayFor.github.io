@@ -1,0 +1,16 @@
+title: A Fine Day For
+description: A Place, or a space
+
+# ["true" or "false" to indicate whether to provide a download URL]
+show_downloads: "true"
+
+# ["true" or "false" to indicate whether to show the top header]
+show_header: "true"
+
+# [Your Google Analytics tracking ID]
+#google_analytics:
+
+source: "site"
+icon: "assets/images/fav.ico"
+
+remote_theme: "dracula/gh-pages"
